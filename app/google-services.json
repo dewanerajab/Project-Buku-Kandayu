@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370261334785",
+    "project_id": "buku-kandayu",
+    "storage_bucket": "buku-kandayu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370261334785:android:57e47878daf1cd8c165900",
+        "android_client_info": {
+          "package_name": "com.example.bukukandayu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370261334785-nqtgftocuauj502se2m1vb075hm1a8mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkFx7mxtbgaZ0an50pXIZex8di1IPLFnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370261334785-nqtgftocuauj502se2m1vb075hm1a8mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
