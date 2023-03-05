@@ -6,7 +6,7 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/ic_batanggaring"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.BukuKandayu"
@@ -20,6 +20,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.example.coba2.Kandayu"/>
+        <activity android:name="com.example.coba2.Kandayu2"/>
+        <activity android:name="com.example.coba2.Kandayu3"/>
+        <activity android:name="com.example.coba2.Kandayu4"/>
+
     </application>
 
 </manifest>
