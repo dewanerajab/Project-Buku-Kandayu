@@ -20,10 +20,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.coba2.Kandayu"/>
-        <activity android:name="com.example.coba2.Kandayu2"/>
-        <activity android:name="com.example.coba2.Kandayu3"/>
-        <activity android:name="com.example.coba2.Kandayu4"/>
+        <activity android:name=".Kandayu"/>
+        <activity android:name=".Kandayu2"/>
+        <activity android:name=".Kandayu3"/>
+        <activity android:name=".Kandayu4"/>
 
     </application>
 

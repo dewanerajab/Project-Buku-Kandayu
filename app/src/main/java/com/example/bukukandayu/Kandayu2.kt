@@ -1,7 +1,7 @@
-package com.example.coba2
+package com.example.bukukandayu
+
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.bukukandayu.R
 
 class Kandayu2 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

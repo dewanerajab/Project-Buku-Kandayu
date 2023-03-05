@@ -1,13 +1,9 @@
 package com.example.bukukandayu
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import com.example.coba2.Kandayu
-import com.example.coba2.Kandayu2
-import com.example.coba2.Kandayu3
-import com.example.coba2.Kandayu4
+import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
