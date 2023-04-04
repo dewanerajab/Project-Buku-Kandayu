@@ -21,10 +21,19 @@
             </intent-filter>
 
         </activity>
+        <activity android:name=".Kanmen" />
+        <activity android:name=".Total" />
         <activity android:name=".Kandayu1" />
         <activity android:name=".Kandayu2" />
         <activity android:name=".Kandayu3" />
         <activity android:name=".Kandayu4" />
+        <activity android:name=".Talatahdansusunan" />
+        <activity android:name=".Doatamparan" />
+        <activity android:name=".Doakahapus" />
+        <activity android:name=".Devteamact" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>

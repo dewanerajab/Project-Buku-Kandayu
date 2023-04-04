@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Doa Tamparan Basarah"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n5 Sarahan Atau Pengakuan Iman\n Ikei mangaku tuntang percaya\n 1.Ranying Hatalla Langit Katamparan\n 2.Langit Katambuan\n 3.Petak Katapajakan\n 4.Nyalung Kapanduian\n 5.Kalata Kapadudukan\n\n - Inanjuri ku ganan Tandak, balua-balua pantar tatah bahanjung rabia sanduri guntum.\n\n  - Bahi-bahing panganan andau balua parung hai benteng, situ datuh ije marantau ruang ije gantung pahalendang tinggi pahalingei.\n\n  - Bambahingan panyandai bulan hehus siru-sari pangku palus nyalumbu ambun tilap telu puluh manehus enun lime balas hatallamping eleh tapuk Tasik kapanjungan Manjung, halawu tumbang Lawang langit.\n\n  - Palus ganan Tandak buah Tasik malambung bulau harende laut bapantan hintan sakit padadusan ranying hattala langit ije hai kuasam belum datuh japa jimat maharing.\n\n  - Kangkarungut ganan Tandak jamjaruman karangkan lingun ikei tingang esum pantai danum kalunen, nalatai tisui Luwuk kampungan bunu.\n\n  - Bau ambun andau/Alem tuh ikei tingang are hakampeleng renteng tambun tandan hapampungan lingkat Mijen ruang Parung hai.\n\n  - Basa ikei manaharep Tuntang manyarah kapanatau sangku tambak raja ije gantung pahalendang tinggi pahalingei, ije basuang bebas ba-asal bara parei mayangen tingang.\n\n  - Bahalap ngarambang mahapan guling pinang ihambalat awi rukun Tarahan hayak ineras bulau hambaruan ije bangkusan timpung basingah bulau pungkal raja Rabia Tasik tambun.\n\n  - Bahalap maluhing hapan dandang tingang ije kadandang inyarah ikei akan mahapan do'a, hapan ikei Balaku asi belum palakuan awat maharing dengan ije Puna hai kuasam belum datuh japa jimat maharing, ije mahunjun bara kare raja Awang beken.\n\n  - Tingan Tatu Ranying Hattala Langit Raja Tuntung Matan Andau , Tuhan Tambing Kabanteran Bulan nuntun pahayak ikei Tuntang memberkat kare taluh gawim ikei handiai, Mangat uras tau manjadi kilau gawim ije jadi manjadi taluh handiai sahapus kalunen junjun Helu huran.\n\n  - Ngatah tinai balitam Ranying Hattala Langit Tuhan Tambing Kabanteran Bulan, akan mujan Nyalung Karingan Belum Nantisan Guhung Panaling Aseng Akan Ikei Handiai.\n\n  - Mangat kare ikei handiai sama tau belum panjang umur, Batuah marajaki Huang barang danum injam tingang rundung masih nampui burung.\n\n  - Uka ikei tau halajur penyang hinje simpei paturung humba tamburak Mangat ikei tau akan Tanggerang lewu mandereh danum panangak rundung hapamantai tambun.\n\n  - Tinai uka ikei tau belum tatau Sabang Haring manggigi tingkah Lawang baung andau.\n\n  - Akam masu, mawat mampahayak Tuntung mangejau kare ikei handiai bara kare Riwut peres baratus ganggurahan are Sampar Saribu sasabutan biti.\n\n  - Mangat kare ikei handiai ije tege tingang mumpung renteng tambun tandan hapampungan lingkat Huang ambun andau/Alem tuh, sama tau nupi nekap Kayun penyang karuhei tatau, ngapain sandik paturung sangkalemu raja.\n\n  - Akam kea mampakeleh kare Kula jalahan ikei ije buah kahaban kapehe, Lasut darem mampahayak tundah kulan ikei ije awang nampa jalanan kejau, akam kea mangarendeng kare paharin ikei ungkup uluh kaharingan ije handiai puji.\n\n  - Mahining Auh ajar ayum ije Baguna akan Galang pambelum ewen hajamban basarah tuh, uka ewen tau barendeng pahayak ikei.\n\n  - Auh hatampulu ikei Balaku asi belum dengan, kueh bitim tau rise rawei hangkahanya ikei palakuan awat maharing isen balitam tau basule huange.\n\n  - Basa Tawangku bitim Puna raja ije mahunjun bara kare raja ikei beken balitam kuasa jatun bara tikas kuasam, Tuntang bitim tampung sahur baragantung langit balitam tundun parapah baratuyang hawun.\n\n  - Dia panjang Riwut rawei hajamban bahing ganan Tandak isen Ambu saruhin tisui, babalang lanatan ganan kandayung eleh Matin nduan tahanjungan palus nende ku Mijen panyalampaya\n\n  - Palus buli ganan Tandak, buli batanbang salumpuk Entang, mules lanatan ganan kandayung mulang tantakep tanterus tuyang\n\n  - Buli hayak ganan Tandak, buli-buli pantar tatah, mules lepah Kabayan ganan kandayung nyuruk Rabia sadurin guntum ruwan junjun Helu.\n\n  - Kuruk hambaruan ikei buli, buli nyelem bebas bangkusan timpung Mangat hariten halawu benteng barintih nduan hila upun tundu, buli hayak kapintar-harati, panyalembang untek, pandang atei, parentas rawei, paharus jalan paranjang hukum, Huang Aram tuntang kuasam je hai ikei Balaku.\n SAHIY\n\n"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

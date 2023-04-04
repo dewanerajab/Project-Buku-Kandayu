@@ -4,5 +4,8 @@
     <string name="text_tombol2">Kandayu Mantang Kayu Erang</string>
     <string name="text_tombol3">Kandayu Parawei</string>
     <string name="text_tombol4">Kandayu Mambuwur Behas Hambaruan</string>
-    <string name="copyright_text">© 2023 Dewan Timpung.</string>
+    <string name="copyright_text">©2023 Dewan Timpung.</string>
+    <string name="kandayu">Kandayu</string>
+    <string name="talatah_basarah_dan_doa">Talatah Basarah Dan Doa</string>
+    <string name="develover_team">Develover Team</string>
 </resources>

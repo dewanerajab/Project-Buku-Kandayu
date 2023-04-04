@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:text="Talatah Dan Susunan Basarah" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1. Sangku\n2. Behas/Beras\n3. Dandang Tingang\n4. Sipa Giling Pinang\n5. Ruku (Rukun Tarahan)\n6. Bulau Pungkal Raja (Duit Singah Hambaruan/Sangku)\n7. Behas Hambaruan ije bungkus\n8. Undus Tanak huang kasa\n9. Tampung Tawar huang galas hayak atun danum\n      inyampur umba minyak harum\n10.Parapen, atun/atau Bara Api\n11.Garu, Mayan, Dupa\n12.Benang Lapik Sangku\n13.Tanteluh Manuk manta ije kabawak\n14.Kambang sukup macam\n\nSUSUNAN BASARAH\n\n1. Manggaru Manyan Sangku Tambak Raja\n2. Doa`a Tamparan Basarah\n3. Kandayu Manyarah Sangku Tambak Raja\n4. Membaca Pampeteh Ranying Hatalla Huang \n     Buku Paturan\n5. Kandayu Mantang Kayu Erang\n6. Madehen Pampeteh Raying Hatalla Langit\n7. Kandayu Parawei\n8. Doa Kahapus Basarah\n9. Mambuwur Behas Hambaruan, Mamantis Undus\n     Tanak, Manampung Tawar, Tuntang Tanteluh Manuk\n     Akan Manyaki/Mamalas,Tau kea Impahinje Huang\n     Tampung Tawar.\n\n                MANGGARU SANGKU TAMBAK RAJA\n\n    Inggaru manyang-ku panatau Sangku Tambak Raja,\nije bahalap basuang Behas Manyangen Tingang,\nbahalap ngarabang hapan giling pinang, hambalat rukun\ntarahan,basingah bulau pungkal raja, rabia tisik\ntambum, neras hapan behas hambaruan ije mungkus\nbangkusan timpung, hayak maluhing hapan Dandang\nTingang ije kadandang, mangat hai pahalendang, datuh\nhai pahalingei, inyarah ikei hajamban auh basarah ikei,\nakan Ranying Hatalla Langit, Jatha Balawang Bulau,\npalus sahur baragantung Langit, parapah baratuyang\nhawun, hapan ikei balaku asi belum, palakuan awat\nmaharing, umba bitim Raja ije hai kuasam belum, mangat\nkare kahandak ikei uras tau manjadi tumun gawim, ije\njadi manjadiaan sahapus pantai Danum Kalunen tuh hemben huran.\nHuang aram tuntang kuasam ikei balaku,\nSahiy, Sahiy, Sahiy.\n\n "
+                android:textSize="16sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
