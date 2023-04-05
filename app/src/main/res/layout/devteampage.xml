@@ -1,23 +1,167 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <ImageButton
-        android:id="@+id/dev3"
-        android:layout_width="80dp"
-        android:layout_height="80dp"
-        android:layout_centerInParent="true"
-        android:layout_marginStart="165dp"
-        android:layout_marginTop="325dp"
-        android:layout_marginEnd="166dp"
-        android:layout_marginBottom="326dp"
-        android:background="@drawable/circle_button"
-        app:layout_constraintBottom_toBottomOf="parent"
+    <ImageView
+        android:id="@+id/appimg"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="44dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@mipmap/ic_batanggaring" />
+
+    <TextView
+        android:id="@+id/appname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Buku Kandayu"
+        android:textAlignment="center"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/appimg" />
+
+    <TextView
+        android:id="@+id/appversion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="0.26.64 Beta"
+        android:textAlignment="center"
+        android:textSize="11sp"
+        android:textStyle="normal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/appname" />
+
+    <TextView
+        android:id="@+id/descriplib"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="208dp"
+        android:text="Aplikasi ini dibangun dengan"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.072"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/kotlinlogo"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/descriplib"
+        app:srcCompat="@drawable/kotlinlogo" />
+
+    <TextView
+        android:id="@+id/kotlintext"
+        android:layout_width="45dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="4dp"
+        android:text="Kotlin"
+        app:layout_constraintStart_toEndOf="@+id/kotlinlogo"
+        app:layout_constraintTop_toBottomOf="@+id/descriplib" />
+
+    <ImageView
+        android:id="@+id/androidstudiologo"
+        android:layout_width="27dp"
+        android:layout_height="27dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="4dp"
+        app:layout_constraintStart_toEndOf="@+id/kotlintext"
+        app:layout_constraintTop_toBottomOf="@+id/descriplib"
+        app:srcCompat="@drawable/androidstudiologo" />
+
+    <TextView
+        android:id="@+id/androstutext"
+        android:layout_width="105dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="4dp"
+        android:text="Android Studio"
+        app:layout_constraintStart_toEndOf="@+id/androidstudiologo"
+        app:layout_constraintTop_toBottomOf="@+id/descriplib" />
+
+    <TextView
+        android:id="@+id/texthub"
+        android:layout_width="369dp"
+        android:layout_height="196dp"
+        android:layout_marginTop="268dp"
+        android:text="@string/texthub"
+        android:textSize="11sp"
+        android:textStyle="normal|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.372"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/juddev"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="Pengembang"
+        android:textSize="16sp"
+        android:textStyle="normal|bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.049"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/texthub" />
+
+    <ImageView
+        android:id="@+id/telegramico"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/juddev"
+        app:srcCompat="@drawable/telegramicon" />
+
+    <ImageView
+        android:id="@+id/facebooklogo"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/telegramico"
+        app:srcCompat="@drawable/facebooklogo" />
+
+    <TextView
+        android:id="@+id/teleid"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/dewanerajab"
+        android:autoLink="web"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/telegramico"
+        app:layout_constraintTop_toBottomOf="@+id/juddev" />
+
+    <TextView
+        android:id="@+id/facebookid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="20dp"
+        android:autoLink="web"
+        android:text="@string/namafb"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/facebooklogo"
+        app:layout_constraintTop_toBottomOf="@+id/teleid" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
