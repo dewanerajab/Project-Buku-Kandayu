@@ -9,7 +9,6 @@ import android.content.Intent
 
 class Kanmen : AppCompatActivity(), View.OnClickListener {
 
-    private lateinit var viewPager: ViewPager
     private lateinit var tombol1: Button
     private lateinit var tombol2: Button
     private lateinit var tombol3: Button
@@ -19,7 +18,6 @@ class Kanmen : AppCompatActivity(), View.OnClickListener {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.kanmen)
 
-        viewPager = findViewById(R.id.viewPager)
         tombol1 = findViewById(R.id.tombol1)
         tombol2 = findViewById(R.id.tombol2)
         tombol3 = findViewById(R.id.tombol3)

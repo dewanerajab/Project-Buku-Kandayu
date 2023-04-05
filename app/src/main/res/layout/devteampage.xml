@@ -6,26 +6,23 @@
 
     <ImageView
         android:id="@+id/appimg"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:layout_marginTop="44dp"
+        android:layout_width="115dp"
+        android:layout_height="126dp"
+        android:layout_marginTop="32dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@mipmap/ic_batanggaring" />
+        app:srcCompat="@drawable/batanggaringv4" />
 
     <TextView
         android:id="@+id/appname"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
         android:text="Buku Kandayu"
         android:textAlignment="center"
         android:textSize="12sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/appimg" />
 
@@ -34,7 +31,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:text="0.26.64 Beta"
+        android:text="0.30.94 Beta"
         android:textAlignment="center"
         android:textSize="11sp"
         android:textStyle="normal"
@@ -64,7 +61,7 @@
         android:layout_marginTop="4dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/descriplib"
-        app:srcCompat="@drawable/kotlinlogo" />
+        app:srcCompat="@drawable/kotlinlogov2" />
 
     <TextView
         android:id="@+id/kotlintext"
@@ -83,7 +80,7 @@
         android:layout_marginTop="4dp"
         app:layout_constraintStart_toEndOf="@+id/kotlintext"
         app:layout_constraintTop_toBottomOf="@+id/descriplib"
-        app:srcCompat="@drawable/androidstudiologo" />
+        app:srcCompat="@drawable/androstudio" />
 
     <TextView
         android:id="@+id/androstutext"
@@ -128,7 +125,7 @@
         android:layout_marginTop="4dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/juddev"
-        app:srcCompat="@drawable/telegramicon" />
+        app:srcCompat="@drawable/telelogov2" />
 
     <ImageView
         android:id="@+id/facebooklogo"
@@ -138,7 +135,7 @@
         android:layout_marginTop="20dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/telegramico"
-        app:srcCompat="@drawable/facebooklogo" />
+        app:srcCompat="@drawable/fblogov2" />
 
     <TextView
         android:id="@+id/teleid"
