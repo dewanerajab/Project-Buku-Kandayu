@@ -7,8 +7,6 @@
     <string name="kandayu">Kandayu</string>
     <string name="talatah_basarah_dan_doa">Talatah Basarah Dan Doa</string>
     <string name="develover_team">Develover Team</string>
-    <string name="dewanerajab"><a href="https://t.me/dewanerajab">@dewanerajab</a></string>
-    <string name="namafb"><a href="https://www.facebook.com/bingung.cari.username">Dewan E Rajab</a></string>
     <string name="doa_tamparan_basarah">Doa Tamparan Basarah</string>
     <string name="talatah_dan_susunan_basarah_judul">Talatah Dan Susunan Basarah</string>
     <string name="batang_garing_image">Batang Garing Image</string>
@@ -18,10 +16,26 @@
     <string name="batanggaring_img_on_total">batanggaring img on total</string>
     <string name="batang_garing">Batang Garing</string>
     <string name="appname">Buku Kandayu</string>
-    <string name="versioncode">0.37.13 Beta</string>
+    <string name="versioncode">0.57.55 Beta</string>
     <string name="aidd">Aplikasi ini dibangun dengan</string>
     <string name="kotlinname">Kotlin</string>
     <string name="android_studioname">Android Studio</string>
     <string name="devtitle">Pengembang</string>
     <string name="doa_kahapus_basarahtitle">Doa Kahapus Basarah</string>
+    <string name="teleid">\@dewanrajab</string>
+    <string name="fbname">Dewan E Rajab</string>
+    <string name="warning_text">Update Selanjutnya :)</string>
+    <string name="judul_kandayu_1">Kandayu Manyarah Sangku Tambak Raja</string>
+    <string name="judul_kandayu_mantang_kayu_erang">Kandayu Mantang Kayu Erang</string>
+    <string name="judul_Kandayu_parawei">Kandayu Parawei</string>
+    <string name="judul_kandayu_mambuwur_behas_hambaruan">Kandayu Mambuwur Behas Hambaruan</string>
+    <string name="judul_kandayu_metuh_uluh_mangubur">Kandayu Metuh Uluh Mangubur</string>
+    <string name="judul_kandayu_akan_nyelu_taheta">Kandayu Akan Nyelu Taheta</string>
+    <string name="judul_kandayu_katika_nahunan">Kandayu Katika Nahunan</string>
+    <string name="kandayu_akan_anak_sakula">Kandayu Akan Anak Sakula</string>
+    <string name="kandayu_akan_uluh_haban">Kandayu Akan Uluh Haban</string>
+    <string name="kandayu_akan_panganten">Kandayu Akan Panganten</string>
+    <string name="kandayu_maluput_hajat">Kandayu Maluput Hajat</string>
+    <string name="kandayu_limbas_mangubur">Kandayu Limbas Mangubur</string>
+    <string name="kandayu_eka_uluh_matei">Kandayu Eka Uluh Matei</string>
 </resources>

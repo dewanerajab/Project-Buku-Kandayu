@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -13,11 +14,9 @@
         tools:targetApi="31">
         <activity
             android:name=".MainActivity"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
 
@@ -28,13 +27,29 @@
         <activity android:name=".Kandayu2" />
         <activity android:name=".Kandayu3" />
         <activity android:name=".Kandayu4" />
+        <activity android:name=".Kanyunyelutaheta" />
+        <activity android:name=".Kanyukatikanahunan" />
+        <activity android:name=".Kanyuanaksakula" />
+        <activity android:name=".Kannyuuluhhaban" />
+        <activity android:name=".Kanyupanganten" />
+        <activity android:name=".Kanyuhajat" />
+        <activity android:name=".Kanyuuluhmatei" />
+        <activity android:name=".Kanyumetngubur" />
+        <activity android:name=".Kanyulimngubur" />
+        <activity android:name=".Kanyupamtehtuhan" />
+        <activity android:name=".Kanyuusaha" />
+        <activity android:name=".Kanyupendenghuma" />
+        <activity android:name=".Kanyubulihumanew" />
+        <activity android:name=".Kanyuparendeng" />
+        <activity android:name=".Kanyumambina" />
         <activity android:name=".Talatahdansusunan" />
         <activity android:name=".Doatamparan" />
         <activity android:name=".Doakahapus" />
         <activity android:name=".Devteamact" />
+
+
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
     </application>
-
 </manifest>

@@ -7,7 +7,7 @@
     <Button
         android:id="@+id/tomboltalsun"
         android:layout_width="300dp"
-        android:layout_height="50dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="260dp"
         android:text="@string/talatah_dan_susunan_basarah_tombultext"
         android:textSize="14sp"

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
@@ -17,14 +16,14 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/talatah_dan_susunan_basarah_judul"
+                android:text="@string/judul_kandayu_akan_nyelu_taheta"
                 android:textSize="20sp"
                 android:textStyle="bold" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/talatahdanmanggaru_text"
+                android:text="@string/nyelu_taheta"
                 android:textSize="16sp" />
 
         </LinearLayout>
