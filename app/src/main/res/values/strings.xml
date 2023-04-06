@@ -4,12 +4,24 @@
     <string name="text_tombol2">Kandayu Mantang Kayu Erang</string>
     <string name="text_tombol3">Kandayu Parawei</string>
     <string name="text_tombol4">Kandayu Mambuwur Behas Hambaruan</string>
-    <string name="copyright_text">©2023 Dewan Timpung.</string>
     <string name="kandayu">Kandayu</string>
     <string name="talatah_basarah_dan_doa">Talatah Basarah Dan Doa</string>
     <string name="develover_team">Develover Team</string>
     <string name="dewanerajab"><a href="https://t.me/dewanerajab">@dewanerajab</a></string>
     <string name="namafb"><a href="https://www.facebook.com/bingung.cari.username">Dewan E Rajab</a></string>
-    <string name="texthub">Aplikasi ini dirancang dengan tujuan untuk mengisi waktu kosong kuliah pengembang serta membantu pengguna dalam basarah/beribadah. Meskipun penggunaan utama dari aplikasi ini adalah untuk kepentingan pribadi, tetapi terdapat kemungkinan untuk memperluas jangkauannya kepada masyarakat umum di masa depan. Jika Anda memperoleh aplikasi ini dari teman kemungkinan anda adalah salah satu dari beberapa orang yang tau akan adanya aplikasi ini. Aplikasi ini masih dalam tahap Beta dan akan terus diperbarui untuk meningkatkan kualitas dan fungsionalitasnya. Terakhir, pengembang mengucapkan terima kasih kepada adiknya Surya Agung Dwi Pratama atas bantuannya dalam mengembangkan aplikasi ini. Jika Anda memiliki saran atau kritik, jangan ragu untuk menghubungi pengembang di bawah ini.</string>
     <string name="doa_tamparan_basarah">Doa Tamparan Basarah</string>
+    <string name="talatah_dan_susunan_basarah_judul">Talatah Dan Susunan Basarah</string>
+    <string name="batang_garing_image">Batang Garing Image</string>
+    <string name="talatah_dan_susunan_basarah_tombultext">Talatah Dan Susunan Basarah</string>
+    <string name="doa_tamparan_basarah_tomboltext">Doa Tamparan Basarah</string>
+    <string name="doa_kahapus_basarah_tomboltext">Doa Kahapus Basarah</string>
+    <string name="batanggaring_img_on_total">batanggaring img on total</string>
+    <string name="batang_garing">Batang Garing</string>
+    <string name="appname">Buku Kandayu</string>
+    <string name="versioncode">0.37.13 Beta</string>
+    <string name="aidd">Aplikasi ini dibangun dengan</string>
+    <string name="kotlinname">Kotlin</string>
+    <string name="android_studioname">Android Studio</string>
+    <string name="devtitle">Pengembang</string>
+    <string name="doa_kahapus_basarahtitle">Doa Kahapus Basarah</string>
 </resources>
