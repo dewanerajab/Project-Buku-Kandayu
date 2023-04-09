@@ -44,13 +44,7 @@ class Kanmen : AppCompatActivity(), View.OnClickListener {
         tombolkandayuakanhajat = findViewById(R.id.tombolkandayuakanhajat)
         tombolkantuakanuluhmatei = findViewById(R.id.tombolkantuakanuluhmatei)
         tombolkanyumetngubur = findViewById(R.id.tombolkanyumetngubur)
-        tombolkanyulimngubur = findViewById(R.id.tombolkanyulimngubur)
-        tombolpampetehtuhan = findViewById(R.id.tombolpampetehtuhan)
-        tombolkanyuusaha = findViewById(R.id.tombolkanyuusaha)
-        tombolkanyupendenghuma = findViewById(R.id.tombolkanyupendenghuma)
-        tombolkanyubulihumanew = findViewById(R.id.tombolkanyubulihumanew)
-        tomboltombolkanyuparendeng = findViewById(R.id.tomboltombolkanyuparendeng)
-        tombolkanyumambina = findViewById(R.id.tombolkanyumambina)
+
 
 
         tombol1.setOnClickListener(this)
@@ -124,34 +118,7 @@ class Kanmen : AppCompatActivity(), View.OnClickListener {
                 val intent = Intent(this, Kanyumetngubur::class.java)
                 startActivity(intent)
             }
-            R.id.tombolkanyulimngubur -> {
-                val intent = Intent(this, Kanyulimngubur::class.java)
-                startActivity(intent)
-            }
-            R.id.tombolpampetehtuhan -> {
-                val intent = Intent(this, Kanyupamtehtuhan::class.java)
-                startActivity(intent)
-            }
-            R.id.tombolkanyuusaha -> {
-                val intent = Intent(this, Kanyuusaha::class.java)
-                startActivity(intent)
-            }
-            R.id.tombolkanyupendenghuma -> {
-                val intent = Intent(this, Kanyupendenghuma::class.java)
-                startActivity(intent)
-            }
-            R.id.tombolkanyubulihumanew -> {
-                val intent = Intent(this, Kanyubulihumanew::class.java)
-                startActivity(intent)
-            }
-            R.id.tomboltombolkanyuparendeng -> {
-                val intent = Intent(this, Kanyuparendeng::class.java)
-                startActivity(intent)
-            }
-            R.id.tombolkanyumambina -> {
-                val intent = Intent(this, Kanyumambina::class.java)
-                startActivity(intent)
-            }
+
         }
     }
 }

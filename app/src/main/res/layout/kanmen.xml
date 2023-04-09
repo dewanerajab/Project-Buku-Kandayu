@@ -125,61 +125,7 @@
                 android:layout_marginEnd="50dp"
                 android:text="Kandayu Metuh Mangubur" />
 
-            <Button
-                android:id="@+id/tombolkanyulimngubur"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="50dp"
-                android:layout_marginEnd="50dp"
-                android:text="Kandayu Limbas Magubur" />
 
-            <Button
-                android:id="@+id/tombolpampetehtuhan"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="50dp"
-                android:layout_marginEnd="50dp"
-                android:text="Kandayu Pampeteh Ranying Hatalla" />
-
-            <Button
-                android:id="@+id/tombolkanyuusaha"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="50dp"
-                android:layout_marginEnd="50dp"
-                android:text="Kandayu Akan Uluh Handak Tulak Ba'Usaha" />
-
-            <Button
-                android:id="@+id/tombolkanyupendenghuma"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="50dp"
-                android:layout_marginEnd="50dp"
-                android:text="Kandayu Pendeng Huma" />
-
-            <Button
-                android:id="@+id/tombolkanyubulihumanew"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="50dp"
-                android:layout_marginEnd="50dp"
-                android:text="Kandayu Buli Huma Taheta" />
-
-            <Button
-                android:id="@+id/tomboltombolkanyuparendeng"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="50dp"
-                android:layout_marginEnd="50dp"
-                android:text="Kandayu Mamparendeng Utus" />
-
-            <Button
-                android:id="@+id/tombolkanyumambina"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="50dp"
-                android:layout_marginEnd="50dp"
-                android:text="Kandayu Mambina Umat" />
 
         </LinearLayout>
     </ScrollView>
