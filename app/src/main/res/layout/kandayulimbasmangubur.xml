@@ -23,7 +23,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Kandayu Limbas Mangubur Text"
+                android:text="@string/kandayulimbasmangubur"
                 android:textSize="16sp" />
 
         </LinearLayout>

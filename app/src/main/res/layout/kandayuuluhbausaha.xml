@@ -16,14 +16,14 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Kandayu Akan Uluh Tulak Bausaha"
+                android:text="@string/kandayu_akan_uluh_tulak_bausaha"
                 android:textSize="20sp"
                 android:textStyle="bold" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Kandayu Usaha"
+                android:text="@string/text_kandayuusaha"
                 android:textSize="16sp" />
 
         </LinearLayout>
